@@ -1,0 +1,40 @@
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 14.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 14.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 14.0
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 14.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = git@github.com:OCA/intrastat-extrastat.git
+	branch = 14.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 14.0
+[submodule "pos"]
+	path = pos
+	url = git@github.com:OCA/pos.git
+	branch = 14.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 14.0
