@@ -34,3 +34,6 @@
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
 	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:ABC-Strategie-GitHub/server-ux.git
