@@ -37,3 +37,6 @@
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:ABC-Strategie-GitHub/server-ux.git
