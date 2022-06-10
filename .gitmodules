@@ -40,3 +40,6 @@
 [submodule "server-ux"]
 	path = server-ux
 	url = git@github.com:ABC-Strategie-GitHub/server-ux.git
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
