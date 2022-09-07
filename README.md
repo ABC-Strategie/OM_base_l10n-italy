@@ -15,4 +15,5 @@ puleo (Odoo.sh) <br/>
 sicurezzalab (Odoo.sh) <br/>
 comart (Odoo.sh) <br/>
 planethoreca (Odoo.sh) <br/>
+auroflex (Odoo on premise) <br/>
 
