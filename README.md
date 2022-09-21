@@ -7,7 +7,7 @@ astaimpianti (Odoo.sh) <br/>
 databit (Odoo.sh) <br/>
 giramico (Odoo.sh) <br/>
 keidea (Odoo.sh) <br/>
-lids (Odoo.sh) <br/>
+lid (Odoo.sh) <br/>
 saracen (Odoo.sh) <br/>
 lemonsistemi (Odoo.sh) <br/>
 abcstrategie (Odoo.sh) <br/>
