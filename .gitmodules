@@ -47,3 +47,7 @@
 	path = web
 	url = git@github.com:OCA/web.git
 	branch = 14.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = git@github.com:OCA/stock-logistics-barcode.git
+	branch = 14.0
