@@ -51,3 +51,9 @@
 	path = stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 14.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = git@github.com:OCA/report-print-send.git
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
