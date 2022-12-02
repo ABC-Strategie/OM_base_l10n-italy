@@ -57,3 +57,7 @@
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 14.0
