@@ -2,3 +2,71 @@
 	path = account-financial-reporting
 	url = git@github.com:OCA/account-financial-reporting.git
 	branch = 16.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = git@github.com:OCA/partner-contact.git
+	branch = 16.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = git@github.com:OCA/account-financial-tools.git
+	branch = 16.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 16.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = git@github.com:OCA/account-invoicing.git
+	branch = 16.0
+[submodule "account-payment"]
+	path = account-payment
+	url = git@github.com:OCA/account-payment.git
+	branch = 16.0
+[submodule "intrastat-extrastat"]
+	path = intrastat-extrastat
+	url = git@github.com:OCA/intrastat-extrastat.git
+	branch = 16.0
+[submodule "pos"]
+	path = pos
+	url = git@github.com:OCA/pos.git
+	branch = 16.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = git@github.com:OCA/product-attribute.git
+	branch = 16.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = git@github.com:OCA/purchase-workflow.git
+	branch = 16.0
+[submodule "report-print-send"]
+	path = report-print-send
+	url = git@github.com:OCA/report-print-send.git
+	branch = 16.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 16.0
+[submodule "sale-workflow"]
+	path = sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 16.0
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:OCA/server-backend.git
+	branch = 16.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = git@github.com:OCA/stock-logistics-barcode.git
+	branch = 16.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 16.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = git@github.com:OCA/stock-logistics-workflow.git
+	branch = 16.0
+[submodule "web"]
+	path = web
+	url = git@github.com:OCA/web.git
+	branch = 16.0
