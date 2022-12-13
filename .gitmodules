@@ -1,0 +1,4 @@
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = git@github.com:OCA/account-financial-reporting.git
+	branch = 16.0
