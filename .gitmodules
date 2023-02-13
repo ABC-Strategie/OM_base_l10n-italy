@@ -14,10 +14,6 @@
 	path = account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
-[submodule "intrastat-extrastat"]
-	path = intrastat-extrastat
-	url = git@github.com:OCA/intrastat-extrastat.git
-	branch = 14.0
 [submodule "partner-contact"]
 	path = partner-contact
 	url = git@github.com:OCA/partner-contact.git
