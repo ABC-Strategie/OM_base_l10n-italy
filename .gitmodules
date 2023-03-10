@@ -61,3 +61,7 @@
 	path = sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 14.0
+[submodule "manufacture"]
+	path = manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 14.0
