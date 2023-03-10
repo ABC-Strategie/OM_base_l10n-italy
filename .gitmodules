@@ -65,3 +65,7 @@
 	path = manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 14.0
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = git@github.com:OCA/stock-logistics-reporting.git
+	branch = 14.0
