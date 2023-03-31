@@ -69,3 +69,7 @@
 	path = stock-logistics-reporting
 	url = git@github.com:OCA/stock-logistics-reporting.git
 	branch = 14.0
+[submodule "hr-attendance"]
+	path = hr-attendance
+	url = git@github.com:OCA/hr-attendance.git
+	branch = 14.0
