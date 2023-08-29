@@ -73,3 +73,7 @@
 	path = hr-attendance
 	url = git@github.com:OCA/hr-attendance.git
 	branch = 14.0
+[submodule "product-pack"]
+	path = product-pack
+	url = git@github.com:OCA/product-pack.git
+	branch = 14.0
