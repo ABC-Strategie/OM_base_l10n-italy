@@ -70,3 +70,7 @@
 	path = web
 	url = git@github.com:OCA/web.git
 	branch = 16.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 16.0
