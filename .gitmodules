@@ -74,3 +74,7 @@
 	path = product-pack
 	url = git@github.com:OCA/product-pack.git
 	branch = 14.0
+[submodule "server-ux"]
+	path = server-ux
+	url = git@github.com:OCA/server-ux.git
+	branch = 14.0
