@@ -33,6 +33,7 @@
 [submodule "reporting-engine"]
 	path = reporting-engine
 	url = git@github.com:OCA/reporting-engine.git
+        branch = 14.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
@@ -48,9 +49,11 @@
 [submodule "report-print-send"]
 	path = report-print-send
 	url = git@github.com:OCA/report-print-send.git
+        branch = 14.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
+        branch = 14.0
 [submodule "server-backend"]
 	path = server-backend
 	url = git@github.com:OCA/server-backend.git
