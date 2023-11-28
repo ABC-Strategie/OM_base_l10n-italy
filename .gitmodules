@@ -36,6 +36,7 @@
 [submodule "purchase-workflow"]
 	path = purchase-workflow
 	url = git@github.com:OCA/purchase-workflow.git
+        branch = 14.0
 [submodule "web"]
 	path = web
 	url = git@github.com:OCA/web.git
