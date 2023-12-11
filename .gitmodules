@@ -82,3 +82,7 @@
 	path = server-ux
 	url = git@github.com:OCA/server-ux.git
 	branch = 14.0
+[submodule "mis-builder"]
+	path = mis-builder
+	url = git@github.com:OCA/mis-builder.git
+	branch = 14.0
