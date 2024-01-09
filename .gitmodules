@@ -86,3 +86,7 @@
 	path = mis-builder
 	url = git@github.com:OCA/mis-builder.git
 	branch = 14.0
+[submodule "calendar"]
+	path = calendar
+	url = git@github.com:OCA/calendar.git
+	branch = 14.0
