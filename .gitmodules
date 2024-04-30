@@ -90,3 +90,7 @@
 	path = stock-logistics-reporting
 	url = https://github.com/OCA/stock-logistics-reporting.git
 	branch = 16.0
+[submodule "delivery-carrier"]
+	path = delivery-carrier
+	url = git@github.com:OCA/delivery-carrier.git
+	branch = 16.0
