@@ -98,3 +98,7 @@
 	path = server-tools
 	url = git@github.com:OCA/server-tools.git
 	branch = 16.0
+[submodule "field-service"]
+	path = field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 16.0
