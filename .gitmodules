@@ -114,3 +114,7 @@
 	path = social
 	url = git@github.com:OCA/social.git
 	branch = 16.0
+[submodule "stock-logistics-warehouse"]
+	path = stock-logistics-warehouse
+	url = git@github.com:OCA/stock-logistics-warehouse.git
+	branch = 16.0
