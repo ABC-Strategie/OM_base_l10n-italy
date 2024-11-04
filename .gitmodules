@@ -58,10 +58,6 @@
 	path = stock-logistics-barcode
 	url = git@github.com:OCA/stock-logistics-barcode.git
 	branch = 16.0
-[submodule "stock-logistics-warehouse"]
-	path = stock-logistics-warehouse
-	url = git@github.com:OCA/stock-logistics-warehouse.git
-	branch = 16.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
 	url = git@github.com:OCA/stock-logistics-workflow.git
