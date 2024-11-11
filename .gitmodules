@@ -90,3 +90,7 @@
 	path = calendar
 	url = git@github.com:OCA/calendar.git
 	branch = 14.0
+[submodule "field-service"]
+	path = field-service
+	url = git@github.com:OCA/field-service.git
+	branch = 14.0
