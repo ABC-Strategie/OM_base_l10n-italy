@@ -1,0 +1,4 @@
+cryptography==3.4.8; python_version < '3.12'  # incompatibility between pyopenssl 19.0.0 and cryptography>=37.0.0
+cryptography==42.0.8 ; python_version >= '3.12'  # (Noble) min 41.0.7, pinning 42.0.8 for security fixes
+openpyxl==3.0.9 ; python_version < '3.12'
+openpyxl==3.1.2 ; python_version >= '3.12'
