@@ -104,7 +104,7 @@
 	branch = 19.0
 [submodule "rest-framework"]
 	path = rest-framework
-	url = git@github.com:OCA/rest-framework.git
+	url = git@github.com:ABC-Strategie/OM_OCA_rest-framework.git
 	branch = 19.0
 [submodule "product-variant"]
 	path = product-variant
