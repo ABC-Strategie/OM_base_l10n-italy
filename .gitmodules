@@ -118,3 +118,9 @@
 	path = stock-logistics-warehouse
 	url = git@github.com:OCA/stock-logistics-warehouse.git
 	branch = 19.0
+[submodule "account-closing"]
+	path = account-closing
+	url = git@github.com:OCA/account-closing.git
+[submodule "connector"]
+	path = connector
+	url = git@github.com:OCA/connector.git
