@@ -121,6 +121,8 @@
 [submodule "account-closing"]
 	path = account-closing
 	url = git@github.com:OCA/account-closing.git
+	branch = 19.0
 [submodule "connector"]
 	path = connector
 	url = git@github.com:OCA/connector.git
+	branch = 19.0
