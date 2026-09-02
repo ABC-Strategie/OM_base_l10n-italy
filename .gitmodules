@@ -1,86 +1,86 @@
 [submodule "account-financial-reporting"]
 	path = account-financial-reporting
-	url = git@github.com:OCA/account-financial-reporting.git
+	url = https://github.com/OCA/account-financial-reporting.git
 	branch = 16.0
 [submodule "partner-contact"]
 	path = partner-contact
-	url = git@github.com:OCA/partner-contact.git
+	url = https://github.com/OCA/partner-contact.git
 	branch = 16.0
 [submodule "account-financial-tools"]
 	path = account-financial-tools
-	url = git@github.com:OCA/account-financial-tools.git
+	url = https://github.com/OCA/account-financial-tools.git
 	branch = 16.0
 [submodule "server-ux"]
 	path = server-ux
-	url = git@github.com:OCA/server-ux.git
+	url = https://github.com/OCA/server-ux.git
 	branch = 16.0
 [submodule "account-invoicing"]
 	path = account-invoicing
-	url = git@github.com:OCA/account-invoicing.git
+	url = https://github.com/OCA/account-invoicing.git
 	branch = 16.0
 [submodule "account-payment"]
 	path = account-payment
-	url = git@github.com:OCA/account-payment.git
+	url = https://github.com/OCA/account-payment.git
 	branch = 16.0
 [submodule "intrastat-extrastat"]
 	path = intrastat-extrastat
-	url = git@github.com:OCA/intrastat-extrastat.git
+	url = https://github.com/OCA/intrastat-extrastat.git
 	branch = 16.0
 [submodule "pos"]
 	path = pos
-	url = git@github.com:OCA/pos.git
+	url = https://github.com/OCA/pos.git
 	branch = 16.0
 [submodule "product-attribute"]
 	path = product-attribute
-	url = git@github.com:OCA/product-attribute.git
+	url = https://github.com/OCA/product-attribute.git
 	branch = 16.0
 [submodule "purchase-workflow"]
 	path = purchase-workflow
-	url = git@github.com:OCA/purchase-workflow.git
+	url = https://github.com/OCA/purchase-workflow.git
 	branch = 16.0
 [submodule "report-print-send"]
 	path = report-print-send
-	url = git@github.com:OCA/report-print-send.git
+	url = https://github.com/OCA/report-print-send.git
 	branch = 16.0
 [submodule "reporting-engine"]
 	path = reporting-engine
-	url = git@github.com:OCA/reporting-engine.git
+	url = https://github.com/OCA/reporting-engine.git
 	branch = 16.0
 [submodule "sale-workflow"]
 	path = sale-workflow
-	url = git@github.com:OCA/sale-workflow.git
+	url = https://github.com/OCA/sale-workflow.git
 	branch = 16.0
 [submodule "server-backend"]
 	path = server-backend
-	url = git@github.com:OCA/server-backend.git
+	url = https://github.com/OCA/server-backend.git
 	branch = 16.0
 [submodule "stock-logistics-barcode"]
 	path = stock-logistics-barcode
-	url = git@github.com:OCA/stock-logistics-barcode.git
+	url = https://github.com/OCA/stock-logistics-barcode.git
 	branch = 16.0
 [submodule "stock-logistics-workflow"]
 	path = stock-logistics-workflow
-	url = git@github.com:OCA/stock-logistics-workflow.git
+	url = https://github.com/OCA/stock-logistics-workflow.git
 	branch = 16.0
 [submodule "web"]
 	path = web
-	url = git@github.com:OCA/web.git
+	url = https://github.com/OCA/web.git
 	branch = 16.0
 [submodule "mis-builder"]
 	path = mis-builder
-	url = git@github.com:OCA/mis-builder.git
+	url = https://github.com/OCA/mis-builder.git
 	branch = 16.0
 [submodule "e-commerce"]
 	path = e-commerce
-	url = git@github.com:OCA/e-commerce.git
+	url = https://github.com/OCA/e-commerce.git
 	branch = 16.0
 [submodule "website"]
 	path = website
-	url = git@github.com:OCA/website.git
+	url = https://github.com/OCA/website.git
 	branch = 16.0
 [submodule "server-auth"]
 	path = server-auth
-	url = git@github.com:OCA/server-auth.git
+	url = https://github.com/OCA/server-auth.git
 	branch = 16.0
 [submodule "stock-logistics-reporting"]
 	path = stock-logistics-reporting
@@ -88,33 +88,33 @@
 	branch = 16.0
 [submodule "delivery-carrier"]
 	path = delivery-carrier
-	url = git@github.com:OCA/delivery-carrier.git
+	url = https://github.com/OCA/delivery-carrier.git
 	branch = 16.0
 [submodule "server-tools"]
 	path = server-tools
-	url = git@github.com:OCA/server-tools.git
+	url = https://github.com/OCA/server-tools.git
 	branch = 16.0
 [submodule "field-service"]
 	path = field-service
-	url = git@github.com:OCA/field-service.git
+	url = https://github.com/OCA/field-service.git
 	branch = 16.0
 [submodule "web-api"]
 	path = web-api
-	url = git@github.com:OCA/web-api.git
+	url = https://github.com/OCA/web-api.git
 	branch = 16.0
 [submodule "rest-framework"]
 	path = rest-framework
-	url = git@github.com:OCA/rest-framework.git
+	url = https://github.com/OCA/rest-framework.git
 	branch = 16.0
 [submodule "product-variant"]
 	path = product-variant
-	url = git@github.com:OCA/product-variant.git
+	url = https://github.com/OCA/product-variant.git
 	branch = 16.0
 [submodule "social"]
 	path = social
-	url = git@github.com:OCA/social.git
+	url = https://github.com/OCA/social.git
 	branch = 16.0
 [submodule "stock-logistics-warehouse"]
 	path = stock-logistics-warehouse
-	url = git@github.com:OCA/stock-logistics-warehouse.git
+	url = https://github.com/OCA/stock-logistics-warehouse.git
 	branch = 16.0
